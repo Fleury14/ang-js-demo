@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
+You can use this repo to demonstrate example in both vanilla JS and Angular. Any Vanilla js will be inside the script.js file, and should apply to the index.html. Just be sure not to do anything to affect the entire document that would eliminate the <app-root>.
+
+`npm install` will need to be run for this to work.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

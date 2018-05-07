@@ -1,0 +1,1 @@
+document.getElementById('js-h3').innerHTML = 'I use the JavaScript stuffs';
